@@ -117,11 +117,6 @@ void test_tuple() {
 
 int main() {
     test_tuple();
-//    int a = 0;
-//    makeTuple(std::ref(a));
-//    makeTuple("aoeu");
-//    int a = 2;
-//    Tuple<int, int> b(a, 5);
     std::cout << 0;
     return 0;
 }
